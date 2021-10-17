@@ -1,4 +1,4 @@
-# Scanet-HackHarvard
+# Scanet
 
 Welcome to Scanet!
 
